@@ -1,0 +1,7 @@
+Anglia	London (belsõ)	44	207	53
+Anglia	Cardiff	44	29	3
+Magyarország	Vodafone (mobil operátor)	36	70	31
+USA	Delaware állam (minden város)	1	302	4
+Ausztria	Salzburg	43	662	18
+Ausztria	Bécs	43	1	8
+Magyarország	Budapest	36	1	3
